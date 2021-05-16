@@ -1,0 +1,4 @@
+If you're a student at Gymnasium Steglitz in Berlin, Germany, you can log into this app with your school e-mail address to see your timetable, your homework and feedback from your teachers.
+
+This app is no different from the Web Dashboard found at https://dashboard.gymnasiumsteglitz.de and currently has no additional functionality compared to the website (not yet, at least). Find the source code here: https://github.com/specht/org.nhcham.dashboardgyst
+
