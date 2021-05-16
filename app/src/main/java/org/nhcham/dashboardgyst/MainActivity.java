@@ -189,7 +189,7 @@ public class MainActivity extends AppCompatActivity {
         public void report_color(String value) {
             SharedPreferences.Editor editor = sharedPrefs.edit();
             editor.putString("primary_color", value);
-            editor.commit();
+            editor.apply();
 
             if (Build.VERSION.SDK_INT >= 21) {
                 window.setStatusBarColor(ColorUtils.blendARGB(Color.parseColor(value), Color.BLACK, 0.4f));

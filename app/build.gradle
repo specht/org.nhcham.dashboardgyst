@@ -21,7 +21,7 @@ android {
 
     defaultConfig {
         applicationId "org.nhcham.dashboardgyst"
-        minSdkVersion 16
+        minSdkVersion 21
         targetSdkVersion 30
         versionCode 5
         versionName "1.0.5"
