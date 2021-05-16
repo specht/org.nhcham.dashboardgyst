@@ -2,7 +2,7 @@
 
 Features:
 
-- ruft https://dashboard.gymnasiumsteglitz.de auf
+- stellt https://dashboard.gymnasiumsteglitz.de in einem WebView dar
 - »swipe down to refresh«
 - Farbe der Statuszeile wird an ausgewähltes Farbschema angepasst
 - Jitsi-Meet-Links werden an die Jitsi-Meet-App delegiert
