@@ -1,0 +1,4 @@
+Wenn du Schülerin oder Schüler am Gymnasium Steglitz bist, kannst du dich hier mit deiner schulischen E-Mail-Adresse anmelden, um auf deinen Vertretungsplan, deine Hausaufgaben sowie Feedback deiner Lehrkräfte zuzugreifen.
+
+Die Dashboard-App unterscheidet sich nicht vom Web-Dashboard und bietet momentan (noch) keinerlei darüber hinausgehende Funktionen. Der Source Code befindet sich hier: https://github.com/specht/org.nhcham.dashboardgyst
+
