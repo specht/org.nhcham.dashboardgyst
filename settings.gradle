@@ -1,0 +1,2 @@
+rootProject.name = "Dashboard Gymnasium Steglitz"
+include ':app'
